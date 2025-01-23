@@ -1,0 +1,13 @@
+# Ignore data files
+data
+
+# Ignore model files
+models/*
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+env
+# Ignore system files
+.DS_Store
