@@ -4,3 +4,7 @@ matplotlib
 seaborn
 scikit-learn
 jupyterlab
+fastapi
+uvicorn
+joblib
+pandas
